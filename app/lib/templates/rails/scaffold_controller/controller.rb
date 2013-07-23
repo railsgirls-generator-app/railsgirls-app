@@ -1,3 +1,6 @@
+# The Rails controller is the logical center of your application. 
+# It coordinates the interaction between the user, the views, and the model.
+
 <% if namespaced? -%>
 require_dependency "<%= namespaced_file_path %>/application_controller"
 
