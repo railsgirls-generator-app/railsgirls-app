@@ -2,6 +2,7 @@
 layout: page
 title: Rails Girls Tutorials
 tagline: Supporting tagline
+image: _site/assets/themes/the-minimum/img/controller.png
 ---
 {% include JB/setup %}
 
@@ -12,8 +13,8 @@ Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllb
 ## Action Controller 
 
 
-![Alt text](/home/sakshi/Pictures/to/Controller.png)
-
+<!-- ![Alt text](/_site/assets/themes/the-minimum/img/to/<Controller class="png"></Controller>)
+![Rail Guides][page.image] -->
 
 <!-- 
 In `_config.yml` remember to specify your own data:
