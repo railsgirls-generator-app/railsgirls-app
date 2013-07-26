@@ -15,6 +15,10 @@ Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllb
 [Google](http://google.com/) has no title attribute. 
 
 
+
+## Action Controller
+## Action Controller
+
 <!-- ![Alt text](/_site/assets/themes/the-minimum/img/to/<Controller class="png"></Controller>)
 ![Rail Guides][page.image] -->
 
