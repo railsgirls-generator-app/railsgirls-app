@@ -10,7 +10,9 @@ Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.ht
 
 Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
 
-## Action Controller 
+## Action Controller
+
+[Google](http://google.com/) has no title attribute. 
 
 
 <!-- ![Alt text](/_site/assets/themes/the-minimum/img/to/<Controller class="png"></Controller>)
