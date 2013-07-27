@@ -16,9 +16,7 @@ Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllb
 <!-- ## Action Controller
  -->
 
-
-![Alt text](/_layouts/to/railsgirls.jpg "Welcome")
-
+![Mockup for feature A](http://railsgirls.com/images/railsgirls-TH.png)
 
 <!-- 
 In `_config.yml` remember to specify your own data:
