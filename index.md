@@ -1,26 +1,24 @@
 ---
 layout: page
-title: Rails Girls Tutorials
+title: Digging deeper
 tagline: Supporting tagline
-image: _site/assets/themes/the-minimum/img/controller.png
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+<!-- Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
 Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
-
-## Action Controller
-
-[Google](http://google.com/) has no title attribute. 
+ -->
 
 
 
-## Action Controller
-## Action Controller
 
-<!-- ![Alt text](/_site/assets/themes/the-minimum/img/to/<Controller class="png"></Controller>)
-![Rail Guides][page.image] -->
+<!-- ## Action Controller
+ -->
+
+
+![Alt text](/_layouts/to/railsgirls.jpg "Welcome")
+
 
 <!-- 
 In `_config.yml` remember to specify your own data:
@@ -49,10 +47,14 @@ Here's a sample "posts list".
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
+-->
+* list item 1 
+* list item 2
 
-## To-Do
+### To-Do
 
 This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples. -->
+We need to clean up the themes, make theme usage guides with theme-specific markup examples. 
 
-
+-------------
+For more info
