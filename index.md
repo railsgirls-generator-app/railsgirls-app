@@ -46,13 +46,14 @@ Here's a sample "posts list".
   {% endfor %}
 </ul>
 -->
-* list item 1 
-* list item 2
 
-### To-Do
+### Beginners
 
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples. 
+* [Rails Girls: Build your first app](http://guides.railsgirls.com/app/)
+* [JumpstartLab](http://tutorials.jumpstartlab.com/)
+* [Rails Bridge](http://curriculum.railsbridge.org/curriculum/curriculum)
 
--------------
-For more info
+### Intermediate
+
+* [Rails Guides: Getting started with Rails](http://guides.rubyonrails.org/getting_started.html)
+* [Michael Hartl: Ruby on Rails Tutorials](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book)
