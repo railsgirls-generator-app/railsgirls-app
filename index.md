@@ -16,8 +16,8 @@ Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllb
 <!-- ## Action Controller
  -->
 
-![Mockup for feature A](http://railsgirls.com/images/railsgirls-TH.png)
-
+<!-- ![Mockup for feature A](http://railsgirls.com/images/railsgirls-TH.png)
+ -->
 <!-- 
 In `_config.yml` remember to specify your own data:
     
@@ -49,11 +49,17 @@ Here's a sample "posts list".
 
 ### Beginners
 
-* [Rails Girls: Build your first app](http://guides.railsgirls.com/app/)
-* [JumpstartLab](http://tutorials.jumpstartlab.com/)
-* [Rails Bridge](http://curriculum.railsbridge.org/curriculum/curriculum)
+* [Rails Girls . Build your first app](http://guides.railsgirls.com/app/)
+* [JumpstartLab . Ruby on Rails Tutorials](http://tutorials.jumpstartlab.com/)
+* [Rails Bridge . Beginner Curriculum](http://curriculum.railsbridge.org/curriculum/curriculum)
 
 ### Intermediate
 
-* [Rails Guides: Getting started with Rails](http://guides.rubyonrails.org/getting_started.html)
-* [Michael Hartl: Ruby on Rails Tutorials](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book)
+* [Rails Guides . Getting started with Rails](http://guides.rubyonrails.org/getting_started.html)
+* [Michael Hartl . Ruby on Rails Tutorials](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book)
+* [Rails Bridge . Intermediate Curriculum](http://curriculum.railsbridge.org/intermediate-rails/)
+
+### Advanced
+
+* [Ryan Bates . RailsCasts](http://railscasts.com/?type=free)
+* [RailsApps · Adding JavaScript to Rails](http://railsapps.github.io/twitter-bootstrap-rails.html)
