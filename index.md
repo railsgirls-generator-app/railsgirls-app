@@ -49,10 +49,10 @@ Here's a sample "posts list".
 
 ### Beginners
 
-* [Rails Girls . Build your first app](http://guides.railsgirls.com/app/)
-* [JumpstartLab . Ruby on Rails Tutorials](http://tutorials.jumpstartlab.com/)
+* [Rails Girls . Build your first app](http://guides.railsgirls.com/app/)  
+* [JumpstartLab . Ruby on Rails Tutorials](http://tutorials.jumpstartlab.com/)  
 * [Rails Bridge . Beginner Curriculum](http://curriculum.railsbridge.org/curriculum/curriculum)
-
+ 
 ### Intermediate
 
 * [Rails Guides . Getting started with Rails](http://guides.rubyonrails.org/getting_started.html)
