@@ -857,4 +857,11 @@ li{
     margin-right: 360px;
   }
 }
+<<<<<<< HEAD
 p {text-align: justify;}
+=======
+
+p.logo img{
+  margin-bottom: 10px;
+}
+>>>>>>> 62c1bb000a049cffcc3a24469727112700d13f1e
