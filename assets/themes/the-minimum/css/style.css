@@ -857,3 +857,7 @@ li{
     margin-right: 360px;
   }
 }
+
+p.logo img{
+  margin-bottom: 10px;
+}
