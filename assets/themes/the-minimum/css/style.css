@@ -858,4 +858,8 @@ li{
   }
 }
 p {text-align: justify;}
+p.logo img {
+  margin-bottom: 18px;
+
+}
 
