@@ -52,6 +52,7 @@ Here's a sample "posts list".
 * [Rails Girls . Build your first app](http://guides.railsgirls.com/app/)  
 * [JumpstartLab . Ruby on Rails Tutorials](http://tutorials.jumpstartlab.com/)  
 * [Learn Rails . By Daniel Kehoe](http://learn-rails.com/)
+* [RubyMonk](http://rubymonk.com/)
  
 ### Intermediate
 
