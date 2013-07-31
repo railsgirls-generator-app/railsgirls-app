@@ -61,7 +61,7 @@ Here's a sample "posts list".
 * [Rails Bridge . Intermediate Curriculum](http://curriculum.railsbridge.org/intermediate-rails/)
 * [Code School · Rails for Zombies](http://www.codeschool.com/courses/rails-for-zombies-redux)
 * [RailsApps · Devise with RSpec and Cucumber](http://railsapps.github.io/tutorial-rails-devise-rspec-cucumber.html)
-* [Pragmatic Programmers · Agile Web Development with Rails](Pragmatic Programmers · Agile Web Development with Rails)
+* [Pragmatic Programmers · Agile Web Development with Rails](http://pragprog.com/book/rails4/agile-web-development-with-rails)
 * [Manning Publications · Rails 4 In Action](https://tutorials.railsapps.org/rails-tutorial#)
 * [Michael Hartl · Screencasts for the Ruby on Rails Tutorial](http://ruby.railstutorial.org/)
 * [Obie Fernandez · The Rails 4 Way](https://leanpub.com/tr4w)
