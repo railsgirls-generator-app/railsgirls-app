@@ -59,8 +59,19 @@ Here's a sample "posts list".
 * [Rails Guides . Getting started with Rails](http://guides.rubyonrails.org/getting_started.html)
 * [Michael Hartl . Ruby on Rails Tutorials](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book)
 * [Rails Bridge . Intermediate Curriculum](http://curriculum.railsbridge.org/intermediate-rails/)
+* [Code School · Rails for Zombies](http://www.codeschool.com/courses/rails-for-zombies-redux)
+* [RailsApps · Devise with RSpec and Cucumber](http://railsapps.github.io/tutorial-rails-devise-rspec-cucumber.html)
+* [Pragmatic Programmers · Agile Web Development with Rails](Pragmatic Programmers · Agile Web Development with Rails)
+* [Manning Publications · Rails 4 In Action](https://tutorials.railsapps.org/rails-tutorial#)
+* [Michael Hartl · Screencasts for the Ruby on Rails Tutorial](http://ruby.railstutorial.org/)
+* [Obie Fernandez · The Rails 4 Way](https://leanpub.com/tr4w)
+* [Pragmatic Studio · Ruby on Rails Programming](http://pragmaticstudio.com/rails)
+* [Code School · Code TV Screencasts](http://www.codeschool.com/code_tv)
+* [Ryan Bates · RailsCasts Pro](http://railscasts.com/?type=pro)
+* [RailsApps · Devise with CanCan and Twitter Bootstrap](https://tutorials.railsapps.org/rails3-bootstrap-devise-cancan)
 
 ### Advanced
 
 * [Ryan Bates . RailsCasts](http://railscasts.com/?type=free)
 * [RailsApps · Adding JavaScript to Rails](http://railsapps.github.io/twitter-bootstrap-rails.html)
+* [Noah Gibbs · Rebuilding Rails](http://rebuilding-rails.com/)
