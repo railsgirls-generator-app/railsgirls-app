@@ -1,4 +1,4 @@
-qRails Girls App generator 
+Rails Girls App generator 
 =========================
 ```
 This app can be used to bootstrap resources in first Rails app.
