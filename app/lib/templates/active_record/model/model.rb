@@ -1,5 +1,5 @@
-# Maintains the relationship between Object and Database and handles validation, 
-# association, transactions, and more. You can read more about Model here : https://google.com
+# Maintains the relationship between Object and Database and handles validation, association,transactions and more.
+# You can read more about Model here: http://railsgirls-generator-app.github.io/railsgirls-app/models.html
 
 <% module_namespacing do -%>
 class <%= class_name %> < <%= parent_class_name.classify %>

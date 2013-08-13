@@ -1,7 +1,8 @@
 <!-- Files starting with "_" underscore are called partials in rails.
       It encourages DRY(Do not repeat yourself) principle of software developement. 
       In Rails common view codes can be put in files called partials, partials will
-      basically avoid code duplications and keep your code clean/ maintainable.  -->
+      basically avoid code duplications and keep your code clean/ maintainable.  
+      Read more here: http://railsgirls-generator-app.github.io/railsgirls-app/views.html -->
 
 <%%= form_for(@<%= singular_table_name %>) do |f| %>
   <%% if @<%= singular_table_name %>.errors.any? %>
